@@ -1,0 +1,23 @@
+﻿var sitemap = 
+{
+"rootNodes":[
+{
+"pageName":"dashboard",
+"type":"Wireframe",
+"url":"dashboard.html"},
+{
+"pageName":"create1",
+"type":"Wireframe",
+"url":"create1.html"},
+{
+"pageName":"create2",
+"type":"Wireframe",
+"url":"create2.html"},
+{
+"pageName":"advance",
+"type":"Wireframe",
+"url":"advance.html"},
+{
+"pageName":"richeng",
+"type":"Wireframe",
+"url":"richeng.html"}]};

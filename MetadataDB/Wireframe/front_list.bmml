@@ -1,0 +1,119 @@
+<mockup version="1.0" skin="sketch" measuredW="1056" measuredH="610" mockupW="686" mockupH="610">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="370" y="0" w="686" h="610" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//ipad.metadatadb.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::FieldSet" x="560" y="88" w="456" h="482" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::SearchBox" x="392" y="95" w="89" h="-1" measuredW="68" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1037" y="74" w="-1" h="503" measuredW="16" measuredH="100" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <value>0</value>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Accordion" x="392" y="135" w="150" h="121" measuredW="150" measuredH="250" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>iPad%20Cover%0A%20%20Left-R%20%2815%29%0A%20%20Top-B%20%2820%29%0A%20%20Insert%20%2810%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="__group__" x="612" y="249" w="356" h="310" measuredW="356" measuredH="310" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="356" h="145" measuredW="356" measuredH="145" zOrder="0" locked="false" isInGroup="46">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="107" h="89" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="0"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="94" w="107" h="51" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Introduce</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="__group__" x="125" y="0" w="107" h="145" measuredW="107" measuredH="145" zOrder="2" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="107" h="89" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="2"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="94" w="107" h="51" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="2">
+                  <controlProperties>
+                    <text>Introduce</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="3" controlTypeID="__group__" x="249" y="0" w="107" h="145" measuredW="107" measuredH="145" zOrder="3" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="107" h="89" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="3"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="94" w="107" h="51" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="3">
+                  <controlProperties>
+                    <text>Introduce</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="165" w="356" h="145" measuredW="356" measuredH="145" zOrder="1" locked="false" isInGroup="46">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="107" h="89" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="1"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="94" w="107" h="51" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Introduce</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="__group__" x="125" y="0" w="107" h="145" measuredW="107" measuredH="145" zOrder="2" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="107" h="89" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="2"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="94" w="107" h="51" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="2">
+                  <controlProperties>
+                    <text>Introduce</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="3" controlTypeID="__group__" x="249" y="0" w="107" h="145" measuredW="107" measuredH="145" zOrder="3" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="107" h="89" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="3"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="94" w="107" h="51" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="3">
+                  <controlProperties>
+                    <text>Introduce</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::ButtonBar" x="575" y="112" w="-1" h="-1" measuredW="143" measuredH="31" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Left-Right</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::TextArea" x="579" y="141" w="402" h="97" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Some%20content%20about%20Left-Rgiht....</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Accordion" x="392" y="268" w="150" h="121" measuredW="168" measuredH="250" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>iPad%20Cover%20character%0A%20%20Glare-screen%0A%20%20Dual-layers%0A%20%20Free-screen-protector</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Accordion" x="392" y="414" w="150" h="155" measuredW="168" measuredH="250" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>All%20character%0A%20%20Glare-screen%0A%20%20Dual-layers%0A%20%20Free-screen-protector</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="524" y="447" w="-1" h="130" measuredW="16" measuredH="100" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::List" x="392" y="444" w="150" h="133" measuredW="100" measuredH="126" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Item%20One%0AItem%20Two%0AItem%20Three%0AItem%20One%0AItem%20Two%0AItem%20Three</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

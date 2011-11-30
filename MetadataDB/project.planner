@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<project name="MedatadaDB" company="" manager="" phase="" project-start="20110328T000000Z" mrproject-version="2" calendar="1">
+  <properties/>
+  <phases/>
+  <calendars>
+    <day-types>
+      <day-type id="0" name="Working" description="A default working day"/>
+      <day-type id="1" name="Nonworking" description="A default non working day"/>
+      <day-type id="2" name="Use base" description="Use day from base calendar"/>
+    </day-types>
+    <calendar id="1" name="Default">
+      <default-week mon="0" tue="0" wed="0" thu="0" fri="0" sat="1" sun="1"/>
+      <overridden-day-types>
+        <overridden-day-type id="0">
+          <interval start="0800" end="1200"/>
+          <interval start="1300" end="1700"/>
+        </overridden-day-type>
+      </overridden-day-types>
+      <days/>
+    </calendar>
+  </calendars>
+  <tasks>
+    <task id="1" name="CMS" note="" work="759600" start="20110328T000000Z" end="20110428T170000Z" work-start="20110328T080000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work">
+      <task id="2" name="&#x7528;&#x6237;&#x6743;&#x9650;" note="" work="86400" start="20110328T000000Z" end="20110330T170000Z" work-start="20110328T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+        <task id="3" name="&#x4E3B;&#x7F16;&#x6743;&#x9650;" note="Ticket 14" work="86400" start="20110328T000000Z" end="20110330T170000Z" work-start="20110328T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      </task>
+      <task id="4" name="&#x56FE;&#x7247;&#x91C7;&#x96C6;" note="" work="460800" start="20110330T170000Z" end="20110421T170000Z" work-start="20110331T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+        <task id="5" name="&#x5927;&#x5C0F;&#x8FC7;&#x6EE4;" note="Ticket 15" work="374400" start="20110330T170000Z" end="20110418T170000Z" work-start="20110331T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+          <predecessors>
+            <predecessor id="1" predecessor-id="3" type="FS"/>
+          </predecessors>
+        </task>
+        <task id="6" name="&#x56FE;&#x7247;&#x91CD;&#x547D;&#x540D;" note="" work="86400" start="20110418T170000Z" end="20110421T170000Z" work-start="20110419T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+          <predecessors>
+            <predecessor id="1" predecessor-id="5" type="FS"/>
+          </predecessors>
+        </task>
+      </task>
+      <task id="7" name="JsonEdit" note="Ticket 19" work="154800" start="20110418T000000Z" end="20110425T110000Z" work-start="20110418T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+        <task id="8" name="Template" note="" work="10800" start="20110418T000000Z" end="20110418T110000Z" work-start="20110418T080000Z" percent-complete="90" priority="0" type="normal" scheduling="fixed-work">
+          <constraint type="must-start-on" time="20110418T000000Z"/>
+        </task>
+        <task id="9" name="Document" note="" work="144000" start="20110418T110000Z" end="20110425T110000Z" work-start="20110418T110000Z" percent-complete="14" priority="0" type="normal" scheduling="fixed-work">
+          <predecessors>
+            <predecessor id="1" predecessor-id="8" type="FS"/>
+          </predecessors>
+        </task>
+      </task>
+      <task id="10" name="&#x5F55;&#x5165;&#x6D4B;&#x8BD5;" note="" work="57600" start="20110426T170000Z" end="20110428T170000Z" work-start="20110427T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+        <task id="11" name="&#x6A21;&#x677F;&#x6570;&#x636E;" note="" work="28800" start="20110426T170000Z" end="20110427T170000Z" work-start="20110427T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+          <predecessors>
+            <predecessor id="1" predecessor-id="16" type="FS"/>
+          </predecessors>
+        </task>
+        <task id="12" name="&#x6D4B;&#x8BD5;&#x6570;&#x636E;" note="" work="28800" start="20110427T170000Z" end="20110428T170000Z" work-start="20110428T080000Z" percent-complete="0" priority="1" type="normal" scheduling="fixed-work">
+          <predecessors>
+            <predecessor id="1" predecessor-id="11" type="FS"/>
+          </predecessors>
+        </task>
+      </task>
+    </task>
+    <task id="13" name="&#x524D;&#x53F0;&#x9875;&#x9762;" note="" work="896400" start="20110414T000000Z" end="20110506T084500Z" work-start="20110414T080000Z" percent-complete="40" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20110414T000000Z"/>
+      <task id="14" name="List&#x9875;&#x9762;" note="" work="230400" start="20110415T000000Z" end="20110426T170000Z" work-start="20110415T080000Z" percent-complete="74" priority="0" type="normal" scheduling="fixed-work">
+        <constraint type="must-start-on" time="20110415T000000Z"/>
+        <task id="15" name="HTML+CSS" note="" work="86400" start="20110415T000000Z" end="20110419T170000Z" work-start="20110415T080000Z" percent-complete="70" priority="0" type="normal" scheduling="fixed-work">
+          <constraint type="must-start-on" time="20110415T000000Z"/>
+        </task>
+        <task id="16" name="&#x6570;&#x636E;&#x8C03;&#x7528;" note="" work="144000" start="20110419T170000Z" end="20110426T170000Z" work-start="20110420T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+          <predecessors>
+            <predecessor id="1" predecessor-id="15" type="FS"/>
+          </predecessors>
+        </task>
+      </task>
+      <task id="17" name="Detail&#x9875;&#x9762;" note="" work="202500" start="20110426T170000Z" end="20110506T081500Z" work-start="20110427T080000Z" percent-complete="53" priority="0" type="normal" scheduling="fixed-work">
+        <predecessors>
+          <predecessor id="1" predecessor-id="14" type="FS"/>
+        </predecessors>
+        <task id="18" name="HTML+CSS" note="" work="116100" start="20110426T170000Z" end="20110503T081500Z" work-start="20110427T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+          <predecessors>
+            <predecessor id="1" predecessor-id="15" type="FS"/>
+          </predecessors>
+        </task>
+        <task id="19" name="&#x6570;&#x636E;&#x8C03;&#x7528;" note="" work="86400" start="20110503T081500Z" end="20110506T081500Z" work-start="20110503T081500Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+          <predecessors>
+            <predecessor id="1" predecessor-id="18" type="FS"/>
+          </predecessors>
+        </task>
+      </task>
+      <task id="20" name="Index&#x9875;&#x9762;" note="" work="463500" start="20110414T000000Z" end="20110506T084500Z" work-start="20110414T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+        <constraint type="must-start-on" time="20110414T000000Z"/>
+      </task>
+    </task>
+  </tasks>
+  <resource-groups/>
+  <resources>
+    <resource id="1" name="Liwenjian" short-name="LWJ" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource id="2" name="Wenyue" short-name="WY" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource id="3" name="Liuyan" short-name="LY" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource id="4" name="Chenyang" short-name="CY" type="1" units="0" email="" note="" std-rate="0"/>
+  </resources>
+  <allocations/>
+</project>

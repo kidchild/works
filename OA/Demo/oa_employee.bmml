@@ -1,0 +1,80 @@
+<mockup version="1.0" skin="sketch" measuredW="886" measuredH="427" mockupW="859" mockupH="409">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::ButtonBar" x="27" y="38" w="-1" h="-1" measuredW="236" measuredH="31" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Home%2C%20Employee%2C%20Evalution</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::FieldSet" x="489" y="18" w="273" h="409" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="520" y="59" w="-1" h="-1" measuredW="115" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>New%20Emplyee</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="529" y="141" w="-1" h="-1" measuredW="50" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mentor</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::ComboBox" x="624" y="140" w="-1" h="-1" measuredW="125" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mentor%27s%20mane</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Arrow" x="143" y="60" w="335" h="71" measuredW="150" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="529" y="179" w="-1" h="-1" measuredW="19" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PL</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::StickyNote" x="777" y="129" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Id%2CProject%20dep%20role</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::ComboBox" x="624" y="181" w="-1" h="-1" measuredW="95" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PL%27s%20mane</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="534" y="208" w="11" h="149" measuredW="77" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>............</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::TextInput" x="626" y="99" w="93" h="-1" measuredW="77" measuredH="29" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Some%20text</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="529" y="100" w="-1" h="-1" measuredW="35" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::FieldSet" x="27" y="89" w="451" h="269" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>List</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::DataGrid" x="38" y="163" w="425" h="162" measuredW="455" measuredH="148" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Id%2CName%20%5E%2C%20Department%2C%20Project%2C%20Role%2CPL/Mentor%0A00134%2C%20Chen%20huiyan%2C%20DEV%2CBE%2C%20PL%2CSbd%0A00154%2CChenyang%2CDEV%2CMetaDB%2CEmployee%2C%20Sbd%0A00009%2CCui%20Heling%2C%20Accounting%2C%20%2C%0A00152%2CGaoyue%2C%20Accounting%2C%20%2C%0A%7B12L%2C%200R%2C%2010%2C%200C%7D</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
