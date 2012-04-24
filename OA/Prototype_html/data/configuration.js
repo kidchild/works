@@ -1,3 +1,0 @@
-﻿var configuration = 
-{
-"showPageNotes":true}
